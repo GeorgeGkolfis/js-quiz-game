@@ -13,9 +13,8 @@ JS Quiz Game is a web-based interactive quiz application designed for users to t
 ## ⚙️ Technologies Used
 
 -   **Languages**: TypeScript, JavaScript, HTML, CSS
--   **Frameworks and Libraries**: React, React Router, M
--   **Database**: MongoDB(Atlas)
--   **Other Tools**: EJS(Embedded JavaScript), ☁️ Cloudinary(image hosting),🗺️ Maptieler(creating and customizing maps),🚀 Render(deployment).
+-   **Frameworks and Libraries**: React, React Router, Motion
+-   **Other Tools**: 🚀 Firebase(deployment).
 
 ---
 
@@ -33,7 +32,7 @@ JS Quiz Game is a web-based interactive quiz application designed for users to t
 
 ## 🌐 Live Application
 
-The JS Quiz Game application is deployed and can be accessed at https://js-quiz-game.web.app/ \
+The JS Quiz Game application is deployed and can be accessed at https://js-quiz-game.web.app/ 
 
 (Note: Contact me at georgiosgolfis@gmail.com to make the application live, if it's not)
 
