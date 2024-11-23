@@ -33,6 +33,7 @@ JS Quiz Game is a web-based interactive quiz application designed for users to t
 ## 🌐 Live Application
 
 The JS Quiz Game application is deployed and can be accessed at https://js-quiz-game.web.app/ (usage from smartphones NOT recommended).
+
 (Note: Contact me at georgiosgolfis@gmail.com to make the application live, if it's not)
 
 ---
