@@ -14,7 +14,7 @@ JS Quiz Game is a web-based interactive quiz application designed for users to t
 
 -   **Languages**: TypeScript, JavaScript, HTML, CSS
 -   **Frameworks and Libraries**: React, React Router, Motion
--   **Other Tools**: 🚀 Firebase(deployment).
+-   **Other Tools**: 🔨 Vite(build tool), 🚀 Firebase(deployment).
 
 ---
 
